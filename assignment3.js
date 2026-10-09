@@ -12,12 +12,13 @@ let student1;
 // let @student1;
 // let student-name;
 // let student name 
+// let const;                  
 
 
 
 // ques 2 
 
-document.write("<h2>Rules forr Naming Java Script</h2>")
+document.write("<h2>Rules for Naming Java Script</h2>")
 
 
 document.write("<p>Variable names can only contain <b>underscore , dollar sign , uppercase letters and lower case letters</b></p>")
